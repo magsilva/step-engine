@@ -1,0 +1,6 @@
+Step Engine Control
+Author: Marco Aurélio Graciotto Silva <magsilva@gmail.com>
+
+This software controls a step engine using the computer parallel port.
+It was developed in a undergraduation course (1999?), using the Borland C
+compiler.
